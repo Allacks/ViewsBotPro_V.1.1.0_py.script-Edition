@@ -1,7 +1,7 @@
 # ViewsBotPro_V.1.1.0_py.script-Edition
 Python ViewsBot with GUI but non-exe edition
 
-_Coming soon_
+~_Coming soon_~
 
 Bot scrip to visit websites or youtube videos. Only for Windows!
 
