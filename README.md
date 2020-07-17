@@ -10,6 +10,6 @@ Bot scrip to visit websites or youtube videos. Only for Windows!
 
 -Make sure, you've already downloaded Chrome
 
--You can modify the code if you want
+-You can modify the code if you want.
 
 -Updates and bugfixes until 2021
