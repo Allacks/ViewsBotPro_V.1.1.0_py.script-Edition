@@ -12,4 +12,4 @@ Bot scrip to visit websites or youtube videos. Only for Windows!
 
 -You can modify the code if you want.
 
--Updates and bugfixes until 2021
+-Bugfixes until 2021
